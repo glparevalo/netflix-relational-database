@@ -65,15 +65,10 @@ This project demonstrates key data modeling skills, making it a great example of
 
 ## 💾 Files Included
 
-| File/Folder              | Description                               |
+| File              | Description                               |
 |--------------------------|-----------------------------------------|
-| `raw_dataset.xlsx`       | Original Netflix dataset (pre-normalization) |
-| `1NF_dataset.xlsx`       | Dataset in First Normal Form            |
-| `2NF_dataset.xlsx`       | Dataset in Second Normal Form           |
-| `3NF_dataset.xlsx`       | Dataset in Third Normal Form            |
-| `final_dataset.xlsx`     | Final normalized dataset                |
-| `ER_diagram.png` / `.pdf`| Entity-Relationship diagram             |
-| `README.md`              | This project overview                  |
+| `netflix_dataset.xlsx`       | Original Netflix dataset (pre-normalization) |
+| `normalized_netflix_db.xlsx`       | Dataset in Normalized Form            |
 
 ---
 
