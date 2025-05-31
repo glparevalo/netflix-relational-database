@@ -19,8 +19,7 @@ This repository includes:
 
 ---
 
-## 🏗️ What I Did
-
+## 🏗️ Process
 ### ✅ Step 1: Analyzed Raw Dataset
 - Reviewed the original dataset structure.
 - Identified multivalued attributes (e.g., multiple genres, casts in a single row).
@@ -65,10 +64,10 @@ This project demonstrates key data modeling skills, making it a great example of
 
 ## 💾 Files Included
 
-| File              | Description                               |
-|--------------------------|-----------------------------------------|
-| `netflix_dataset.xlsx`       | Original Netflix dataset (pre-normalization) |
-| `normalized_netflix_db.xlsx`       | Dataset in Normalized Form            |
+| File                           | Description                                  |
+|--------------------------------|----------------------------------------------|
+| `netflix_dataset.xlsx`         | Original Netflix dataset (pre-normalization) |
+| `normalized_netflix_db.xlsx`   | Dataset in Normalized Form                   |
 
 ---
 
