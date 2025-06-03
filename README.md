@@ -31,7 +31,7 @@ This repository includes:
 
 ### ✅ Step 3: Applied Second Normal Form (2NF)
 - Eliminated partial dependencies.
-- Created separate tables for data groups like genres, actors, and directors.
+- Created separate tables for data groups like categories, cats, and directors.
 - Used MS Excel and Power Query's unpivot feature.
 
 ### ✅ Step 4: Applied Third Normal Form (3NF)
