@@ -2,7 +2,7 @@
 
 Welcome to my Netflix Dataset project!  
 
-In this repository, I walk through how I applied formal database normalization techniques to create a real-world Netflix relational database, including detailed steps, an entity-relationship (ER) diagram, and the final cleaned dataset files.  
+In this repository, formal database normalization techniques were applied to create a real-world Netflix relational database, including detailed steps, an entity-relationship (ER) diagram, and the final cleaned dataset files.  
 
 ---
 
@@ -83,4 +83,3 @@ This project demonstrates key data modeling skills, making it a great example of
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact me!
-
